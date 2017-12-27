@@ -1,0 +1,74 @@
+h1{
+    text-align:center;
+    border:3px dotted cyan;
+}
+
+.menu {
+    background-color: rgba(0, 0, 0,0.4);
+    border: 2px dotted blue;
+    width: 20%;
+    height: 40%;
+    margin-left: 10px;
+    position: absolute;
+    left: 2%;
+    top: 11%;
+}
+.main {
+    background-color: rgba(0, 0, 0,0.4);
+    border: 2px dotted blue;
+    width: 70%;
+    position: absolute;
+    left: 25%;
+    top: 11%;
+    height: 79%;
+    text-align: center;
+}
+h3{
+    text-align:center;
+}
+input{
+    text-align:center;
+    margin-left:3px;
+    padding:3px;
+    margin-bottom:5px;
+    border-style:dotted;
+    background-color:cyan;
+}
+h4{
+    text-align:center;
+    padding:6px;
+    font-style:italic;
+}
+.contacts {
+    background-color: rgba(0, 0, 0,0.4);
+    position: absolute;
+    top: 55%;
+    left: 2%;
+    margin-left: 10px;
+    border: 2px dotted blue;
+    width: 20%;
+    height: 35%;
+    text-align: center;
+}
+ul{
+    text-align:left;
+    color:cyan;
+}
+body{
+    background-image: url(img/img1.jpg);
+    background-size:cover;
+
+}
+.img2{
+    width:30.6%;
+    height:50%;
+    float:left;
+    margin:1%;
+  
+    border:2px inset cyan;
+    
+    
+}
+a{
+    color:lightblue;
+}
